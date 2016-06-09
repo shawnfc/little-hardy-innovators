@@ -1,0 +1,24 @@
+@charset "utf-8";
+#sun {
+	display: none;
+}
+#mindLiftersContainer {
+	display: none;
+}
+#logo {
+	margin-top: 15px;
+}
+#mainNav li {
+	font-size: 1.5em;
+	padding: 3px;
+}
+#maincontent {
+	width: 100%;
+}
+#copyRight {
+	width: 100%;
+}
+#socialMedia {
+	width: 100%;
+	text-align: center;
+}

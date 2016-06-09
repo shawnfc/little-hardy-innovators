@@ -1,0 +1,22 @@
+@charset "utf-8";
+#sun {
+	width: 25%;
+	margin-top: 10%;
+	margin-left: 4%;
+}
+#sun img:first-child {
+	width: 50%;
+}
+#mindLiftersContainer {
+	margin-top: 8%;
+}
+#maincontent {
+	width: 90%;
+}
+#address {
+	font-size: .8em;
+}
+#socialMedia {
+	width: 100%;
+	text-align: center;
+}
